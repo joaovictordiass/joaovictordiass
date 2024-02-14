@@ -11,7 +11,7 @@
 🔧 Conhecimentos: HTML | CSS | JavaScript | TypeScript
 
 📫 Como me encontrar:
-   - LinkedIn:  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-dias-4235a52aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-dias-4235a52aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    - Email: joaovictorrochadias@gmail.com
 
 🔗 Confira meus abaixo!
