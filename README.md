@@ -14,8 +14,6 @@
    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-dias-4235a52aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    - Email: joaovictorrochadias@gmail.com
 
-🔗 Confira meus abaixo!
-
 Let's code together! 💻✨
 
 ![joaovictordiass stats](https://github-readme-stats.vercel.app/api?username=joaovictordiass&show_icons=true&theme=dracula)
