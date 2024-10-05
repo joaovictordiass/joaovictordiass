@@ -2,7 +2,7 @@
 
 👋 Me chamo João Victor Dias
 
-🚀 Aprendendo e explorando o mundo da web com HTML, CSS, JavaScript e TypeScript.
+🚀 Aprendendo e explorando o mundo da web com HTML, CSS e JavaScript.
 
 💼 Desenvolvedor aspirante em busca de desafios e aprendizado contínuo.
 
